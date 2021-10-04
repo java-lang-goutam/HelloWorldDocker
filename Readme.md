@@ -71,7 +71,6 @@ docker run \
 docker exec -it rest-server /bin/bash
 ```
 
-
 ```python
 pip install mysql-connector-python
 ```
